@@ -8,7 +8,7 @@ dock is a python program that can update itself and execute given any commands.
 - ship.py [from here](https://github.com/mertarikann/dock/blob/main/ship.py)
 - nothing else really
 
-### how can i use dock?
+# how can i use dock?
 first of you must have commands to execute obviously, you can create your own commands or if you are lazy here are some commands that i created for users
 
 ## adding commands
